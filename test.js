@@ -1,0 +1,3 @@
+function fact(){
+    console.log();
+}
